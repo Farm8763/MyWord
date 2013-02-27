@@ -1,0 +1,17 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+
+
+global
+{
+	vertical-align: top;
+	text-align: center;
+	font-size: 24;
+	content-background-color: #866E6E;
+	chrome-color: #734040;
+	selection-color: #977575;
+	color: #FFFFFF;
+	font-family: "Times New Roman";
+	font-weight: normal;
+}
+	
